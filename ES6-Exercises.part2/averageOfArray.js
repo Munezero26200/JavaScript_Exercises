@@ -1,0 +1,1 @@
+//Write a JavaScript program to compute the average of an array, after mapping each element to a value using the provided function.
